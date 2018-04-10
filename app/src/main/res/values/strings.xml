@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Personas_I</string>
+    <string name="tvCedula">Cédula</string>
+    <string name="tvNombre">Nombre</string>
+    <string name="tvApellido">Apellido</string>
+    <string name="tvTitulo">Registrar</string>
+    <string name="btnGuardar">Guardar</string>
+    <string name="btnBorrar">Borrar</string>
+</resources>
