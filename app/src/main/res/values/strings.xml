@@ -6,4 +6,5 @@
     <string name="tvTitulo">Registrar</string>
     <string name="btnGuardar">Guardar</string>
     <string name="btnBorrar">Borrar</string>
+    <string name="tvNumero">No.</string>
 </resources>
