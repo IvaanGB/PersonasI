@@ -7,4 +7,12 @@
     <string name="btnGuardar">Guardar</string>
     <string name="btnBorrar">Borrar</string>
     <string name="tvNumero">No.</string>
+    <string name="mensaje_guardado">Persona Guardada Exitosamente</string>
+    <string name="registrar">Registrar</string>
+    <string name="listar">Listar</string>
+
+    <string-array name="opciones">
+        <item>@string/registrar</item>
+        <item>@string/listar</item>
+    </string-array>
 </resources>
